@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway/driveeasy-backend.api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway/driveeasy-backend.api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client-service/driveeasy-backend.client-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/client-service/driveeasy-backend.client-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/driveeasy-backend.config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/driveeasy-backend.config-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/location-service/driveeasy-backend.location-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/location-service/driveeasy-backend.location-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-registry/driveeasy-backend.service-registry.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-registry/driveeasy-backend.service-registry.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vehicule-service/driveeasy-backend.vehicule-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vehicule-service/driveeasy-backend.vehicule-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ds karim.iml" filepath="$PROJECT_DIR$/.idea/ds karim.iml" />
+    </modules>
+  </component>
+</project>
